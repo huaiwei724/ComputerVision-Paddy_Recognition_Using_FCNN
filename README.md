@@ -7,4 +7,7 @@ The faster RCNN model helps finding out the bounding box of the rice.
 
 Some potential application will be to spread the pesticide precisely and also predict the yeild.
 
+Red boxes are Ground Truth(centrel +-20 pixel)
+Green boxes are the predictions
+
 ![Alt text](下載.png "Optional title")
