@@ -3,3 +3,8 @@ This is the code using only the sample data on [水稻無人機全彩影像植�
 
 The competition is held by 臺灣大學農藝系
 
+The faster RCNN model helps finding out the bounding box of the rice.
+
+Some potential application will be to spread the pesticide precisely and also predict the yeild.
+
+![Alt text](下載.png "Optional title")
